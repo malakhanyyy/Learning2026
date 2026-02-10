@@ -1,4 +1,4 @@
-# Learning2026
-My journey to learn Software >>
+# Learning 2026 📚
 
-Day 1 - Learning git&github 
+This repository documents my **learning journey in 2026**.  
+It’s a place to practice, take notes, and track progress.
