@@ -15,6 +15,7 @@ It’s a place to practice, take notes, and track progress.
    cd Learning2026 >> moving to this folder
 5. git status
    to get the changes
+
 **To upload files:**
 1. git add
 2. git commit -m "Added index and css files"
